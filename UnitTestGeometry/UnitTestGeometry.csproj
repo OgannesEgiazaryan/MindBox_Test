@@ -57,9 +57,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MindBox_Test\MindBox_Test.csproj">
+    <ProjectReference Include="..\MindBox_Test\MindBox_Test_Library.csproj">
       <Project>{6004c28b-b2c7-4f84-8f0a-e2d18fcddf0d}</Project>
-      <Name>MindBox_Test</Name>
+      <Name>MindBox_Test_Library</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

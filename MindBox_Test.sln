@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBox_Test", "MindBox_Test\MindBox_Test.csproj", "{6004C28B-B2C7-4F84-8F0A-E2D18FCDDF0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBox_Test_Library", "MindBox_Test\MindBox_Test_Library.csproj", "{6004C28B-B2C7-4F84-8F0A-E2D18FCDDF0D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGeometry", "UnitTestGeometry\UnitTestGeometry.csproj", "{BF1B0457-F1B2-4AD7-8407-ED86F4E113A1}"
 	ProjectSection(ProjectDependencies) = postProject
